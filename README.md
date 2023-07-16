@@ -6,7 +6,7 @@
 - :space_invader: Recently started exploring different types of NoSQL DBs
 - :blue_book: I'm write tech blogs on [medium][website] on the topics I explore
 - 🥅 2023 Goals: Documenting everything I work on
-- ⚡  Fun fact: I love to sketch and have an instagram page for sketches
+- ⚡  Fun fact: I love to travel and I have a travel page on Instagram, check that out
 
 ### Connect with me:
 
