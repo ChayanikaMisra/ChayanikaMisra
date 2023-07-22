@@ -3,7 +3,8 @@
 ## I'm a Developer and a Tech Blogger!!
 
 - 🔭 I'm exploring new tech!
-- :space_invader: Recently started exploring different types of NoSQL DBs
+- :space_invader: Recently started exploring how to design microservices
+- Also will continue to explore programming languages and different types of NoSQL DBs
 - :blue_book: I'm write tech blogs on [medium][website] on the topics I explore
 - 🥅 2023 Goals: Documenting everything I work on
 - ⚡  Fun fact: I love to travel and I have a travel page on Instagram, check that out
