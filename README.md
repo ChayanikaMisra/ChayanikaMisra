@@ -1,7 +1,3 @@
-Here’s a more polished and professional version of your GitHub README-style introduction, incorporating your 6 years of experience, Imperial MBA journey, scholarship, and current entrepreneurial focus — while keeping it friendly and personal:
-
----
-
 ### Hi there, I'm Chayanika 👋
 
 ## 👩‍💻 Software Developer | 🧠 Tech Blogger | 🎓 Incoming MBA at Imperial College London
@@ -60,7 +56,3 @@ Here’s a more polished and professional version of your GitHub README-style in
 [website]: https://chayanikamisra.medium.com/
 [instagram]: https://www.instagram.com/explorewithchay/
 [linkedin]: https://www.linkedin.com/in/chayanika-misra/
-
----
-
-Let me know if you'd like this styled specifically for GitHub, Medium, or personal website use!
